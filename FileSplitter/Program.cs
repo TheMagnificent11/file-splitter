@@ -30,6 +30,8 @@ namespace FileSplitter
             var fileSplitter = new FileSplitter(options, logger);
 
             await fileSplitter.Split();
+
+            ConsoleHelper.DisplayDebugMessage();
         }
     }
 }
