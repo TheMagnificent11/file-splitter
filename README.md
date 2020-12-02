@@ -1,2 +1,2 @@
 # file-splitter
-Splits a text file into small text files
+Splits a text file into smaller text files
